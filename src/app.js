@@ -293,7 +293,7 @@ export class App extends LitElement {
 
 		// Delay some of the work
 		setTimeout(() => {
-			this.setupServiceWorker().then();
+			//this.setupServiceWorker().then();
 			this.hashChanged();
 			setTimeout(() => {
 				if (getFirstVisit() == null && currentSnackCount() === 0) {

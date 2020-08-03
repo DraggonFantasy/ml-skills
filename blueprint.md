@@ -1,10 +1,10 @@
-<h1 align="center">Web Skills</h1>
+<h1 align="center">ML Skills</h1>
 <p align="center">
-	Web Skills is a visual overview of useful skills to learn as a web developer. Go to <a href="https://andreasbm.github.io/web-skills" target="_blank" aria-label="Link to Web Skills">https://andreasbm.github.io/web-skills</a> to check out the visual overview or scroll through this readme to get the overview <a href="#-fundamentals" target="_blank" aria-label="Link to list of skills">as a list</a>. If you like the project you are very welcome to <a href="https://github.com/andreasbm/web-skills/stargazers" aria-label="Become stargazer link">become a stargazer 🤩</a>
+	ML Skills is a visual overview of useful skills at machine learning field. Go to <a href="https://DraggonFantasy.github.io/ml-skills" target="_blank" aria-label="Link to ML Skills">https://DraggonFantasy.github.io/ml-skills</a> to check out the visual overview or scroll through this readme to get the overview <a href="#-fundamentals" target="_blank" aria-label="Link to list of skills">as a list</a>. If you like the project you are very welcome to <a href="https://github.com/DraggonFantasy/ml-skills/stargazers" aria-label="Become stargazer link">become a stargazer 🤩</a>
 </p> 
 <p align="center">
-	<a href="http://andreasbm.github.io/web-skills" target="_blank">
-		<img src="https://raw.githubusercontent.com/andreasbm/web-skills/master/demo.gif" alt="Web Skills Demo" width="800" />
+	<a href="http://draggonfantasy.github.io/ml-skills" target="_blank">
+		<img src="https://raw.githubusercontent.com/draggonfantasy/ml-skills/master/demo.gif" alt="ML Skills Demo" width="800" />
 	</a>
 </p>
 <br />

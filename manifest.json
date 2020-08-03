@@ -1,8 +1,8 @@
 {
-	"short_name": "Web Skills",
-	"name": "Web Skills",
-	"description": "A visual overview of useful skills to learn as a web developer",
-	"start_url": "/web-skills/",
+	"short_name": "ML Skills",
+	"name": "ML Skills",
+	"description": "A visual overview of useful skills for machine learning",
+	"start_url": "/ml-skills/",
 	"lang": "en-US",
 	"display": "standalone",
 	"background_color": "#0B0B19",

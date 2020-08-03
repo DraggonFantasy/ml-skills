@@ -1,16 +1,16 @@
 {
-	"name": "web-skills",
+	"name": "ml-skills",
 	"description": "A visual overview of useful skills to learn as a web developer",
 	"type": "module",
 	"license": "MIT",
-	"author": "Andreas Mehlsen",
+	"author": "Boris Varer & Andreas Mehlsen",
 	"bugs": {
-		"url": "https://github.com/andreasbm/web-skills/issues"
+		"url": "https://github.com/draggonfantasy/ml-skills/issues"
 	},
-	"homepage": "https://github.com/andreasbm/web-skills#readme",
+	"homepage": "https://github.com/draggonfantasy/ml-skills#readme",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/andreasbm/web-skills.git"
+		"url": "git+https://github.com/draggonfantasy/ml-skills.git"
 	},
 	"keywords": [
 		"web",

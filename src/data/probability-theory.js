@@ -1,10 +1,10 @@
-export const fundamentalsCollection = {
-	name: "Fundamentals",
+export const probabilityTheoryCollection = {
+	name: "Probability Theory",
 	areas: [
 		{
 			name: "TODO",
 			skills: [
-				{
+				/*{
 					name: "Syntax",
 					description: {
 						text: "Learn the basics of HTML and get comfortable with it's syntax and main concepts.",
@@ -28,7 +28,7 @@ export const fundamentalsCollection = {
 							},
 						},
 					]
-				},
+				},*/
 			]
 		},
 	]
